@@ -1,2 +1,1 @@
-# digital_terminal
-to play just play in the terminal
+You can copy/download my code and just run it 
